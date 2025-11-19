@@ -1,0 +1,6 @@
+site_name: ESG Dashboard Docs
+nav:
+  - Home: index.md
+  - Relatorio: docs/Relatorio_ESG.md
+  - DAX Measures: docs/DAX_MEASURES.md
+  - Data Sources: docs/DATA_SOURCES.md
