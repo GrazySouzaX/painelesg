@@ -39,10 +39,6 @@ Este repositório contém o arquivo Power BI (`.pbix`) com o dashboard ESG, docu
    ./create_repo_with_gh.sh
    ```
 
-## Observações de segurança
-- **NUNCA** coloque credenciais (senhas, tokens) no código ou imagens e remova-as do histórico do Git se acidentalmente commitadas.
-- Use autenticação por SSH ou GitHub CLI para push seguro. Habilite 2FA na sua conta GitHub.
-
 ## Contato / Responsáveis
 - Autor: grazieliandrade111
-- Email: (não inclua senha em repositórios)
+- Email:grazieliandrade111@gmail.com
