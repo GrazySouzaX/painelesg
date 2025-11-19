@@ -8,12 +8,12 @@ Este repositório contém o arquivo Power BI (`.pbix`) com o dashboard ESG, docu
 **Arquivo PBIX (local no ambiente):** `/mnt/data/ESG_FINALIZADO.pbix`
 
 ## Estrutura do repositório
-- `pbix/ESG_FINALIZADO.pbix` — arquivo Power BI (pode ser grande; por isso usamos Git LFS).
-- `docs/Relatorio_ESG.md` — relatório detalhado do dashboard (insira o conteúdo final do Canvas aqui).
+- `pbix/ESG_FINALIZADO.pbix` — arquivo Power BI 
+- `docs/Relatorio_ESG.md` — relatório detalhado do dashboard 
 - `docs/DAX_MEASURES.md` — medidas DAX principais e templates.
 - `docs/DATA_SOURCES.md` — descrição e responsáveis pelas fontes de dados.
 - `.gitattributes` — configura Git LFS para `.pbix`.
-- `.github/workflows/ci.yml` — workflow de CI (ex.: gerar artefatos dos docs).
+- `.github/workflows/ci.yml` — workflow de CI 
 - `setup_and_push.sh` / `setup_and_push.ps1` — scripts para inicializar o repositório local e commitar com Git LFS.
 - `create_repo_with_gh.sh` — script opcional que usa `gh` para criar o repo remoto e dar push.
 
